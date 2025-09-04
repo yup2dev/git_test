@@ -1,3 +1,4 @@
 public class file_1 {
-    // step8 : git reHEADreset
+    // reset branch step3 & recommit
+    // switch to past branch and reedit
 }
